@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/">
+    <file>orange-dark.qss</file>
+    <file>123.jpg</file>
+  </qresource>
+</RCC>
